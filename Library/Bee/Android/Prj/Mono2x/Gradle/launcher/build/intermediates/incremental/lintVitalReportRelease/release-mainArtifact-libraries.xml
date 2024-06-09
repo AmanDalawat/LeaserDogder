@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\64fa121c668308997e0a4d2b66d6d446\transformed\out\jars\classes.jar;D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\64fa121c668308997e0a4d2b66d6d446\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\64fa121c668308997e0a4d2b66d6d446\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Users\HP\unity task\LaserDodger\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
